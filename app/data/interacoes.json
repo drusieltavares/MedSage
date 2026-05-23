@@ -1,0 +1,106 @@
+[
+  {
+    "meds": ["fluoxetina", "tramadol"],
+    "gravidade": "grave",
+    "mecanismo": "serotoninérgico",
+    "descricao": "Risco aumentado de síndrome serotoninérgica e convulsões."
+  },
+
+  {
+    "meds": ["sertralina", "linezolida"],
+    "gravidade": "grave",
+    "mecanismo": "IMAO",
+    "descricao": "Risco elevado de síndrome serotoninérgica."
+  },
+
+  {
+    "meds": ["varfarina", "amiodarona"],
+    "gravidade": "grave",
+    "mecanismo": "CYP2C9",
+    "descricao": "Aumento do INR e risco importante de sangramento."
+  },
+
+  {
+    "meds": ["fluvoxamina", "clorpromazina"],
+    "gravidade": "moderada",
+    "mecanismo": "CYP1A2 + QT",
+    "descricao": "Aumento de sedação e risco de prolongamento de QT."
+  },
+
+  {
+    "meds": ["clonazepam", "alcool"],
+    "gravidade": "grave",
+    "mecanismo": "Depressão SNC",
+    "descricao": "Depressão importante do sistema nervoso central e risco respiratório."
+  },
+
+  {
+    "meds": ["sildenafil", "nitrato"],
+    "gravidade": "grave",
+    "mecanismo": "Vasodilatação",
+    "descricao": "Risco grave de hipotensão."
+  },
+
+  {
+    "meds": ["espironolactona", "losartana"],
+    "gravidade": "moderada",
+    "mecanismo": "Potássio",
+    "descricao": "Risco aumentado de hipercalemia."
+  },
+
+  {
+    "meds": ["enalapril", "espironolactona"],
+    "gravidade": "moderada",
+    "mecanismo": "Potássio",
+    "descricao": "Maior risco de hipercalemia."
+  },
+
+  {
+    "meds": ["azitromicina", "haloperidol"],
+    "gravidade": "grave",
+    "mecanismo": "QT",
+    "descricao": "Aumento do risco de torsades de pointes."
+  },
+
+  {
+    "meds": ["ondansetrona", "escitalopram"],
+    "gravidade": "moderada",
+    "mecanismo": "QT + serotonina",
+    "descricao": "Risco aumentado de prolongamento de QT e síndrome serotoninérgica."
+  },
+
+  {
+    "meds": ["ibuprofeno", "varfarina"],
+    "gravidade": "grave",
+    "mecanismo": "Sangramento",
+    "descricao": "Risco aumentado de sangramento gastrointestinal."
+  },
+
+  {
+    "meds": ["cetoconazol", "sinvastatina"],
+    "gravidade": "grave",
+    "mecanismo": "CYP3A4",
+    "descricao": "Aumento importante da concentração de sinvastatina e risco de rabdomiólise."
+  },
+
+  {
+    "meds": ["claritromicina", "colchicina"],
+    "gravidade": "grave",
+    "mecanismo": "CYP3A4",
+    "descricao": "Aumento da toxicidade da colchicina."
+  },
+
+  {
+    "meds": ["metformina", "contraste iodado"],
+    "gravidade": "moderada",
+    "mecanismo": "Acidose láctica",
+    "descricao": "Risco de acidose láctica em insuficiência renal."
+  },
+
+  {
+    "meds": ["digoxina", "furosemida"],
+    "gravidade": "moderada",
+    "mecanismo": "Potássio",
+    "descricao": "Hipocalemia aumenta risco de toxicidade digitálica."
+  }
+]
