@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "app/calculadoras/chadsvasc/page.jsx", "app/ia/page.jsx", "app/page.jsx", "app/calculadoras/page.jsx", "app/layout.jsx", "app/calculadoras/childpugh/page.jsx", "app/calculadoras/glasgow/page.jsx", "app/calculadoras/curb65/page.jsx"  ],
   "exclude": ["node_modules"]
 }
